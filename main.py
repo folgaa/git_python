@@ -5,3 +5,7 @@ def func12():
 def func4():
     print(4)
     return
+
+def func5():
+    print(5)
+    return
