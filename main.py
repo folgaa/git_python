@@ -1,3 +1,3 @@
-def func1():
-    print(1)
+def func12():
+    print(12)
     return
