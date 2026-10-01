@@ -9,3 +9,7 @@ def func4():
 def func5():
     print(5)
     return
+
+def feature():
+    return 7
+
